@@ -1,12 +1,8 @@
 Rails.application.routes.draw do
+  # static pages
   get 'static_pages/home'
   get 'static_pages/help'
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+  get 'static_pages/about' # automatically create a helper called static_pages_about_url
 
-  # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.
-  # Can be used by load balancers and uptime monitors to verify that the app is live.
-  get "up" => "rails/health#show", as: :rails_health_check
-
-  # Defines the root path route ("/")
-  root "application#hello"
+  root "static_pages#home"
 end
