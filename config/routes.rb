@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
-  # static pages
-  get 'static_pages/home'
-  get 'static_pages/help'
-  get 'static_pages/about' # automatically create a helper called static_pages_about_url
-
   root "static_pages#home"
+
+  get  "/help",    to: "static_pages#help" # creates two named routes, help_path and help_url
+  # help_path -> '/help'
+  # help_url  -> 'http://www.example.com/help'
+
+  get  "/about",   to: "static_pages#about"
+  get  "/contact", to: "static_pages#contact"
+
+  get  "/signup",  to: "users#new"
 end
