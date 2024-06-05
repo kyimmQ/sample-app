@@ -200,104 +200,104 @@
   </component>
   <component name="RailsPaths" isManagedAutomatically="true">
     <entry key="app">
-      <value>file://$MODULE_DIR$/../sample_app\app</value>
+      <value>file://$MODULE_DIR$/../sample-app\app</value>
     </entry>
     <entry key="app/assets">
-      <value>file://$MODULE_DIR$/../sample_app\app/assets</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/assets</value>
     </entry>
     <entry key="app/channels">
-      <value>file://$MODULE_DIR$/../sample_app\app/channels</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/channels</value>
     </entry>
     <entry key="app/controllers">
-      <value>file://$MODULE_DIR$/../sample_app\app/controllers</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/controllers</value>
     </entry>
     <entry key="app/helpers">
-      <value>file://$MODULE_DIR$/../sample_app\app/helpers</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/helpers</value>
     </entry>
     <entry key="app/mailers">
-      <value>file://$MODULE_DIR$/../sample_app\app/mailers</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/mailers</value>
     </entry>
     <entry key="app/models">
-      <value>file://$MODULE_DIR$/../sample_app\app/models</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/models</value>
     </entry>
     <entry key="app/views">
-      <value>file://$MODULE_DIR$/../sample_app\app/views</value>
+      <value>file://$MODULE_DIR$/../sample-app\app/views</value>
     </entry>
     <entry key="config">
-      <value>file://$MODULE_DIR$/../sample_app\config</value>
+      <value>file://$MODULE_DIR$/../sample-app\config</value>
     </entry>
     <entry key="config/cable">
-      <value>file://$MODULE_DIR$/../sample_app\config/cable.yml</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/cable.yml</value>
     </entry>
     <entry key="config/database">
-      <value>file://$MODULE_DIR$/../sample_app\config/database.yml</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/database.yml</value>
     </entry>
     <entry key="config/environment">
-      <value>file://$MODULE_DIR$/../sample_app\config/environment.rb</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/environment.rb</value>
     </entry>
     <entry key="config/environments">
-      <value>file://$MODULE_DIR$/../sample_app\config/environments</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/environments</value>
     </entry>
     <entry key="config/initializers">
-      <value>file://$MODULE_DIR$/../sample_app\config/initializers</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/initializers</value>
     </entry>
     <entry key="config/locales">
-      <value>file://$MODULE_DIR$/../sample_app\config/locales</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/locales</value>
     </entry>
     <entry key="config/routes">
-      <value>file://$MODULE_DIR$/../sample_app\config/routes</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/routes</value>
     </entry>
     <entry key="config/routes.rb">
-      <value>file://$MODULE_DIR$/../sample_app\config/routes.rb</value>
+      <value>file://$MODULE_DIR$/../sample-app\config/routes.rb</value>
     </entry>
     <entry key="config/secrets">
-      <value>file://$MODULE_DIR$/../sample_app\config</value>
+      <value>file://$MODULE_DIR$/../sample-app\config</value>
     </entry>
     <entry key="db">
-      <value>file://$MODULE_DIR$/../sample_app\db</value>
+      <value>file://$MODULE_DIR$/../sample-app\db</value>
     </entry>
     <entry key="db/migrate">
-      <value>file://$MODULE_DIR$/../sample_app\db/migrate</value>
+      <value>file://$MODULE_DIR$/../sample-app\db/migrate</value>
     </entry>
     <entry key="db/seeds.rb">
-      <value>file://$MODULE_DIR$/../sample_app\db/seeds.rb</value>
+      <value>file://$MODULE_DIR$/../sample-app\db/seeds.rb</value>
     </entry>
     <entry key="lib">
-      <value>file://$MODULE_DIR$/../sample_app\lib</value>
+      <value>file://$MODULE_DIR$/../sample-app\lib</value>
     </entry>
     <entry key="lib/assets">
-      <value>file://$MODULE_DIR$/../sample_app\lib/assets</value>
+      <value>file://$MODULE_DIR$/../sample-app\lib/assets</value>
     </entry>
     <entry key="lib/tasks">
-      <value>file://$MODULE_DIR$/../sample_app\lib/tasks</value>
+      <value>file://$MODULE_DIR$/../sample-app\lib/tasks</value>
     </entry>
     <entry key="lib/templates">
-      <value>file://$MODULE_DIR$/../sample_app\lib/templates</value>
+      <value>file://$MODULE_DIR$/../sample-app\lib/templates</value>
     </entry>
     <entry key="log">
-      <value>file://$MODULE_DIR$/../sample_app\log/development.log</value>
+      <value>file://$MODULE_DIR$/../sample-app\log/development.log</value>
     </entry>
     <entry key="public">
-      <value>file://$MODULE_DIR$/../sample_app\public</value>
+      <value>file://$MODULE_DIR$/../sample-app\public</value>
     </entry>
     <entry key="public/javascripts">
-      <value>file://$MODULE_DIR$/../sample_app\public/javascripts</value>
+      <value>file://$MODULE_DIR$/../sample-app\public/javascripts</value>
     </entry>
     <entry key="public/stylesheets">
-      <value>file://$MODULE_DIR$/../sample_app\public/stylesheets</value>
+      <value>file://$MODULE_DIR$/../sample-app\public/stylesheets</value>
     </entry>
     <entry key="test/mailers/previews">
-      <value>file://$MODULE_DIR$/../sample_app\test/mailers/previews</value>
-      <value>file:///home/cacle/LearningRuby/sample_app/test/mailers/previews</value>
+      <value>file://$MODULE_DIR$/../sample-app\test/mailers/previews</value>
+      <value>file:///home/cacle/LearningRuby/sample-app/test/mailers/previews</value>
     </entry>
     <entry key="tmp">
-      <value>file://$MODULE_DIR$/../sample_app\tmp</value>
+      <value>file://$MODULE_DIR$/../sample-app\tmp</value>
     </entry>
     <entry key="vendor">
-      <value>file://$MODULE_DIR$/../sample_app\vendor</value>
+      <value>file://$MODULE_DIR$/../sample-app\vendor</value>
     </entry>
     <entry key="vendor/assets">
-      <value>file://$MODULE_DIR$/../sample_app\vendor/assets</value>
+      <value>file://$MODULE_DIR$/../sample-app\vendor/assets</value>
     </entry>
   </component>
   <component name="RakeTasksCache-v2">
