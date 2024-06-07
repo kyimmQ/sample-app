@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-
+  include SessionsHelper
   def show
     @user = User.find(params[:id])
   end
@@ -12,6 +12,8 @@ class UsersController < ApplicationController
     @user = User.new(user_params)    # Not the final implementation!
     if @user.save
       # Handle a successful save.
+      reset_session
+      log_in @user
       flash[:success] = "Welcome #{@user.name} to our app!"
       redirect_to user_url(@user)
     else
